@@ -45,7 +45,7 @@ For data scientists, Selenium is invaluable when:
 pip install selenium
 ```
 
-### Step 2: Install WebDriver Manager (Recommended)
+### Step 2: Install WebDriver Manager 
 
 WebDriver Manager automatically handles browser driver downloads and updates:
 ```bash
