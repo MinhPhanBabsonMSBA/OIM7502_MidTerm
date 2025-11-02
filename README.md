@@ -2,7 +2,7 @@
 
 ## Library Overview
 
-**Library:** Selenium WebDriver  
+**Library:** Selenium   
 
 **Documentation URL:** [https://www.selenium.dev/](https://www.selenium.dev/)
 
